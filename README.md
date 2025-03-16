@@ -21,11 +21,11 @@
 <!--Intro start-->
 - 🔭 Atualmente trabalhando com Sql
 
-- 🌱 Aprendendo multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Aprendendo ...
 
-- ☁️ Tenho interesse cloud computing. So,I'm learning **AWS**
+- ☁️ Tenho interesse ...
 
-- 💬 Me pergunte sobre **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Me pergunte sobre ...
 
 <!--Intro end-->
 
