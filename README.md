@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 Atualmente trabalhando com **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 Atualmente trabalhando com Sql
 
 - 🌱 Aprendendo multiple Hyper Beast Stack for Scalable Applications.**
 
