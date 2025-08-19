@@ -19,13 +19,11 @@
 
 
 <!--Intro start-->
-- 🔭 Atualmente trabalhando com Sql
+- 🔭 Atualmente trabalhando com Sql, Php, Scripts Sh, Scripts Powershell, web e Arcgis
 
-- 🌱 Aprendendo ...
+- 🌱 Cursando Desenvolvimento de Software Multiplataforma na Fatec Votorantim
 
-- ☁️ Tenho interesse ...
-
-- 💬 Me pergunte sobre ...
+- ☁️ Tenho interesse programação, banco de dados, automação...
 
 <!--Intro end-->
 
