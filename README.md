@@ -19,11 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 Atualmente trabalhando com Sql, Php, Scripts Sh, Scripts Powershell, web e Arcgis
-
-- 🌱 Cursando Desenvolvimento de Software Multiplataforma na Fatec Votorantim
-
-- ☁️ Tenho interesse programação, banco de dados, automação...
+Me chamo Luiz Riato, graduando no curso de Desenvolvimento de Software Multiplataforma pela Fatec Votorantim e graduado como técnico de informática pela Etec Waldyr Duron Junior em Piraju. Durante os cursos, desenvolvi habilidades em diversas áreas como desenvolvimento front-end, back-end, segurança da informação, banco de dados, mobile e mais. Atualmente trabalho com banco de dados e automação na empresa Claro, onde sou colaborador há mais de 10 anos. 
 
 <!--Intro end-->
 
